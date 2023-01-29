@@ -32,25 +32,15 @@
         "id": 5,
         "nome": "Enola Holmes",
         "descricao": "Conta a história de Enola Holmes, uma adolescente que fará de tudo para encontrar a mãe desaparecida, inclusive despistar o irmão, Sherlock Holmes, e ajudar um jovem lorde fugitivo.",
-        "direção": "Harry Bradbeer",
+        "direcao": "Harry Bradbeer",
         "categoria_id": 2
       },
       {
         "id": 6,
-        "nome": "Coca cola 600ml",
-        "descricao": "",
-        "preco": 7.5,
+        "nome": "Alice no País das Maravilhas",
+        "descricao": "A história de Alice no País das Maravilhas é completamente fantasiosa e cheia de absurdos, mas tem inspirações no mundo real. Lewis Carroll, ou Charles Lutwidge Dodgson, teve a ideia da aventura enquanto precisava distrair as filhas de um amigo, Loriny, Edith e Alice. A história de Alice no País das Maravilhas é completamente fantasiosa e cheia de absurdos, mas tem inspirações no mundo real. Lewis Carroll, ou Charles Lutwidge Dodgson, teve a ideia da aventura enquanto precisava distrair as filhas de um amigo, Loriny, Edith e Alice.",
+        "autor": "Charles Lutwidge Dodgson",
         "categoria_id": 2
-      }
-    ],
-    "categorias": [
-      {
-        "id": 1,
-        "nome": "Hambúrgueres"
-      },
-      {
-        "id": 2,
-        "nome": "Refrigerantes"
       }
     ]
   }
