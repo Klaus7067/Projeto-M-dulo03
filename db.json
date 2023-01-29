@@ -1,38 +1,38 @@
 {
-    "produtos": [
+    "cinema": [
       {
         "id": 1,
-        "nome": "Hambúrguer",
-        "descricao": "Pão, bife de hambúrguer 90g, salada e batata.",
-        "preco": 8.5,
+        "nome": "Harry Potter e a Câmara Secreta",
+        "autor": "J. K. Rowling" ,
+        "descricao": "É uma saga de 8 filmes que conta a história de um garoto e seu futuro no mundo dos bruxos.",
         "categoria_id": 1
       },
       {
         "id": 2,
-        "nome": "X-Búrguer",
-        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, salada e batata.",
-        "preco": 10.5,
+        "nome": "Sherlock Holmes",
+        "autor": "Sir Arthur Conan Doyle" ,
+        "descricao": "Filme que mostra o dia a dia de um homem muito inteligente que investiga casos de assassinato, desaparecimentos etc.",
         "categoria_id": 1
       },
       {
         "id": 3,
-        "nome": "X-Bacon",
-        "descricao": "Pão, bife de hambúrguer 90g, 1 fatia de queijo, 2 fatia de bacon, salada e batata.",
-        "preco": 12.5,
+        "nome": "Dark Web: Cicada 3301",
+        "descricao": "Cicada 3301 é um nome dado a uma organização enigmática que, em seis ocasiões, postou um conjunto de quebra-cabeças e jogos de realidade alternativa complexos para possivelmente recrutar decifradores de códigos do público.",
+        "autor/diretor": "Alan Ritchson",
         "categoria_id": 1
       },
       {
         "id": 4,
-        "nome": "X-Tudo",
-        "descricao": "Pão, 2 bifes de hambúrguer 90g, 2 fatias de queijo, 4 fatias de bacon, salada e batata.",
-        "preco": 14.5,
+        "nome": "A Bela e a Fera",
+        "descricao": "A Bela e a Fera é uma história popular de crianças francesas que passou de uma geração para a próxima até hoje.",
+        "autor": "Apuleio",
         "categoria_id": 1
       },
       {
         "id": 5,
-        "nome": "Coca cola 350ml",
-        "descricao": "",
-        "preco": 5.5,
+        "nome": "Enola Holmes",
+        "descricao": "Conta a história de Enola Holmes, uma adolescente que fará de tudo para encontrar a mãe desaparecida, inclusive despistar o irmão, Sherlock Holmes, e ajudar um jovem lorde fugitivo.",
+        "direção": "Harry Bradbeer",
         "categoria_id": 2
       },
       {
